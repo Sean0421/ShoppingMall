@@ -20,7 +20,7 @@
 * 吸顶功能
 * 轮播图,滑动列表
 
-##主要的Widget:
+## 主要的Widget:
 * TabBar和PageView的联动
 * NestScrollView
 * CustomScrollView
