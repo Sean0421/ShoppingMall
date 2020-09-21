@@ -38,6 +38,14 @@
 状态从而决定搜索框的显示或隐藏)
 * VideoPlayerController + ChewieController(实现本地或网络请求的视频播放)
 
+### 第三方依赖：
+|名称及版本|作用|
+|---|---
+|dio:^3.0.9|网络请求
+|provider:^4.3.2|状态管理
+
+
+
 
 
 
