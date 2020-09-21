@@ -43,6 +43,13 @@
 |---|---
 |dio:^3.0.9|网络请求
 |provider:^4.3.2|状态管理
+|event_bus: ^1.1.1|事件总线
+|flutter_swiper: ^1.1.6|轮播图
+|toast: ^0.1.5|Toast
+|cached_network_image: ^2.3.2+1|图片加载处理
+|video_player: ^0.10.12+2|视频播放
+|chewie: ^0.9.10|视频功能扩展
+|add_cart_parabola: ^0.0.6|抛物线动画
 
 
 
